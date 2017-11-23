@@ -15,7 +15,7 @@ public class Join extends Thread
 				System.out.println(e);
 			}
 			System.out.println(i);
-			
+			System.out.println();
 			
 		}
 	}
